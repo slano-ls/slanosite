@@ -1,0 +1,20 @@
+{
+  "Doom Emacs": {
+    "pretext": "Emacs Configuration",
+    "heading": "SlanoMacs",
+    "link": "https://github.com/slano-ls/SLANOMACS",
+    "description": "A detailed Emacs configuration based off of Doom Emacs, optimized for MacOS and Linux, with clear documentation, and unique aesthetic customizations."
+  },
+  "SLLang": {
+    "pretext": "Programming Language",
+    "heading": "SLLang",
+    "link": "https://github.com/slano-ls/SLLang/",
+    "description": "SLLang is a simple language created in order to teach me more about low-level programming and other important features. It has a simple syntax, but retains a high-speed by using various features discussed in the project."
+  },
+  "MinType": {
+    "pretext": "Typing Test Site",
+    "heading": "MinType",
+    "link": "https://mintype.vercel.app/",
+    "description": "MinType is a simple Typing Test Website created for a school project, which utilizes JS in order to create a minimal typing test website. With inspiration drawn from MonkeyType and Typings!"
+  }
+}

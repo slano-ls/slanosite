@@ -1,0 +1,52 @@
+{
+  "intro": {
+    "link": "https://www.github.com/slano-ls",
+    "prettylink": "github.com/slano-ls",
+    "label": "Say 👋 on GitHub"
+  },
+  "stationery": {
+    "link": "https://slano-ls.github.io",
+    "prettylink": "slano-ls.github.io",
+    "label": "SLANO_SEC"
+  },
+  "fun": {
+    "link": "https://slano-ls.github.io/#projects",
+    "prettylink": "slano-ls.github.io/#projects",
+    "label": "A few cybersecurity projects."
+  },
+  "brave": {
+    "link": "https://obsidian.md/",
+    "prettylink": "obsidian.md",
+    "label": "Obsidian"
+  },
+  "lettering": {
+    "link": "https://uwaterloo.ca/research/",
+    "prettylink": "uwaterloo.ca/research/",
+    "label": "Working on Quantum Computing Research (Optimization)"
+  },
+  "illustrator": {
+    "link": "https://anytype.io/",
+    "prettylink": "anytype.io",
+    "label": "Worked on backend development for the Anytype and Obsidian Projects"
+  },
+  "applesec": {
+    "link": "https://security.apple.com/bounty/",
+    "prettylink": "security.apple.com/bounty/",
+    "label": "Contributed to the Apple Security Bounties, and part of the security research program"
+  },
+  "crypto": {
+    "link": "https://www.gnu.org/software/emacs/",
+    "prettylink": "gnu.org",
+    "label": "Emacs"
+  },
+  "rippling": {
+    "link": "https://www.rippling.com/",
+    "prettylink": "rippling.com",
+    "label": "Rippling"
+  },
+  "aprilia": {
+    "link": "https://muji.ca/",
+    "prettylink": "muji.ca",
+    "label": "Muji"
+  }
+}

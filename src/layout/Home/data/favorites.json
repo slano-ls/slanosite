@@ -1,0 +1,136 @@
+{
+  "digital": {
+    "pretext": "Software",
+    "title": "Apps",
+    "items": [
+      {
+        "link": "https://www.alfredapp.com/",
+        "name": "Alfred"
+      },
+      {
+        "link": "https://code.visualstudio.com/",
+        "name": "Emacs"
+      },
+      {
+        "link": "https://1password.com/",
+        "name": "Firefox"
+      },
+      {
+        "link": "https://www.grammarly.com",
+        "name": "Spotify + Spicetify"
+      },
+      {
+        "link": "https://desktop.github.com/",
+        "name": "NeoVim"
+      },
+      {
+        "link": "https://www.figma.com/",
+        "name": "Sioyek"
+      },
+      {
+        "link": "https://iterm2.com/",
+        "name": "iTerm2"
+      }
+    ]
+  },
+  "analog": {
+    "pretext": "Tools",
+    "title": "Analog",
+    "items": [
+      {
+        "link": "https://www.baronfig.com/tools/confidant/classic?size=plus+%287%22+x+10%22%29&paper+type=ruled&color=charcoal",
+        "name": "Kokuyo Campus A5 Smart Notebook"
+      },
+      {
+        "link": "https://www.amazon.com/Moisture-Garden-Gardening-Outdoors-Battery/dp/B01J1HO6XY",
+        "name": "Uni Kuru Toga"
+      },
+      {
+        "link": "https://us.moccamaster.com/kb-matte-black.html",
+        "name": "Pilot Dr. Grip 0.5mm"
+      },
+      {
+        "link": "https://www.aersf.com",
+        "name": "Pilot Namiki Urushi Maki-e Fountain Pen"
+      }
+    ]
+  },
+  "tech": {
+    "pretext": "Gear",
+    "title": "Tech",
+    "items": [
+      {
+        "link": "https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.html",
+        "name": "Apple Magic Mouse"
+      },
+      {
+        "link": "https://kinesis-ergo.com/shop/advantage2/",
+        "name": "LG 32 Inch Monitor"
+      },
+      {
+        "link": "https://www.bluemic.com/en-us/products/snowball/",
+        "name": "Macbook Air 13\" Intel"
+      },
+      {
+        "link": "https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-10-core-cpu-16-core-gpu-1tb#",
+        "name": "Sony XM3 Headphones"
+      }
+    ]
+  },
+  "books": {
+    "pretext": "Literature",
+    "title": "Books",
+    "items": [
+      {
+        "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary",
+        "name": "Project Hail Mary"
+      },
+      {
+        "link": "https://www.goodreads.com/book/show/233667.Firestarter",
+        "name": "Firestarter"
+      },
+      {
+        "link": "https://www.goodreads.com/book/show/149267.The_Stand",
+        "name": "The Stand"
+      },
+      {
+        "link": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+        "name": "The Book Thief"
+      },
+      {
+        "link": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
+        "name": "Man's Search for Meaning"
+      },
+      {
+        "link": "https://www.goodreads.com/book/show/42046112-recursion",
+        "name": "Recursion"
+      }
+    ]
+  },
+  "general": {
+    "pretext": "General",
+    "title": "Miscellaneous",
+    "items": [
+      {
+        "link": "https://www.goodreads.com/user/show/31218546-ross-moody",
+        "name": "GoodReads"
+      },
+      {
+        "link": "https://www.drinktrade.com/",
+        "name": "DrinkTrade Coffee"
+      },
+      {
+        "link": "https://www.pocketcasts.com/",
+        "name": "PocketCasts"
+      },
+      {
+        "link": "https://www.netlify.com/",
+        "name": "Netlify"
+      },
+      {
+        "link": "https://shop.ledger.com/products/ledger-nano-x",
+        "name": "Ledger Nano X"
+      }
+    ]
+  }
+}
